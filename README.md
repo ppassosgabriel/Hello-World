@@ -1,2 +1,2 @@
-# Hello World
- Teste primeiro repositório versonado do Curso do youtube
+# Hello, World!
+ Teste do meu primeiro repositório versonado (curso do youtube).
